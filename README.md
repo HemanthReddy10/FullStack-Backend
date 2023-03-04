@@ -2,7 +2,7 @@
 
 ### Technology Stack:
 
-Springboot , RESTFul API , Mysql Database(SQL) , Postman , Github  <br/>
+Springboot , RESTFul API , Mysql Database(SQL) , Postman , Github , AWS Elastic Beanstalk  <br/>
 
 
 
